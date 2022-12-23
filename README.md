@@ -2,7 +2,7 @@
 
 ## I'm Vigga Koo
 - 📫 How to reach me:
-    - [Email]<a href="mailto:vinhtrungngo1907@gmail.com"></a>
+    - <a href="mailto:vinhtrungngo1907@gmail.com">[Email]</a>
 
 ### 🛠 My knowledge
 
