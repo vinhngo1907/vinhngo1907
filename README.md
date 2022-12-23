@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## I'm Koo Vigga
+## I'm Vigga Koo
 - 📫 How to reach me:
     - [Email](vinhtrungngo1907@gmail.com)
 
