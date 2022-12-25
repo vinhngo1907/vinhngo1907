@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## I'm Vigga Koo
+## Imma Koo Koo
 - 📫 How to reach me:
     - <a href="mailto:vinhtrungngo1907@gmail.com">[Email]</a>
 
