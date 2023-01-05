@@ -2,7 +2,7 @@
 
 ## Imma Koo Koo
 - 📫 How to reach me:
-    - <a href="mailto:vinhtrungngo1907@gmail.com">[Email]</a>
+    - <p>[Email]<a href="mailto:vinhtrungngo1907@gmail.com">vinhtrungngo1907@gmail.com</a></p>
 
 ### 🛠 My knowledge
 
