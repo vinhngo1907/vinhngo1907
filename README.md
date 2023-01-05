@@ -1,4 +1,4 @@
-### Hi there, Imma Koo Kuu 👋
+## Hi there, Imma Koo Kuu 👋
 
 ## 📫 How to reach me:
 - My personal mail [Email](mailto:vinhtrungngo1907@gmail.com) 📧
