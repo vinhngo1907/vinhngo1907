@@ -1,12 +1,17 @@
 ## Hi there, Imma Koo Kuu 👋
 
+<div align="center">
 <img align="center" width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=vinhngo1907&theme=graywhite" />
-
+</div>
+  
 ## 📫 How to reach me:
 
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/vinhngo1907/vinhngo1907/main/dino.gif">
+</div>
+
 ## 🛠 My knowledge
-
-
 
 
 <!---
