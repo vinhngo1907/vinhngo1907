@@ -19,3 +19,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <a href="https://app.daily.dev/vinhngo9907"><img src="https://api.daily.dev/devcards/830d9ce27c764560a7c7b3a51c3db94e.png?r=c4o" width="300" alt="Ngo Trung Vinh's Dev Card"/></a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinhngo1907&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
