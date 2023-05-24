@@ -17,9 +17,9 @@
 vinhngo1907/vinhngo1907 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<div class="d-flex justify-content-between align-items-center">
+<div>
 <a href="https://app.daily.dev/vinhngo9907"><img src="https://api.daily.dev/devcards/830d9ce27c764560a7c7b3a51c3db94e.png?r=c4o" width="300" alt="Ngo Trung Vinh's Dev Card"/></a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinhngo1907&layout=compact" width="300"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinhngo1907&layout=compact" width="400" height="200"/>
 </a>
 </div>
