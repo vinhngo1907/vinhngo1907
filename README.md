@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 <div align=center>
   <a href="https://app.daily.dev/vinhngo9907"><img src="https://api.daily.dev/devcards/830d9ce27c764560a7c7b3a51c3db94e.png?r=c4o" width="300" alt="Ngo Trung Vinh's Dev Card"/></a>
-  <div>
+  <div style="display: flex; flex-direction: column;">
   <a href="#" title="orgball2608">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinhngo1907&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
