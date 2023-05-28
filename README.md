@@ -1,6 +1,4 @@
 <div align="center">
-  <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hey! Nice to see you.</h1>
-<img align="center" width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=vinhngo1907&theme=graywhite" &show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>
 </div>
   
 ## 📫 How to reach me:
