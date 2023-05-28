@@ -10,8 +10,7 @@
   <img src="https://raw.githubusercontent.com/vinhngo1907/vinhngo1907/main/dino.gif">
 </div>
 
-## 🛠 My knowledge
-
+## 🎯 Languages and Tools:
 
 <!---
 vinhngo1907/vinhngo1907 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
