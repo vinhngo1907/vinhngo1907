@@ -9,7 +9,7 @@
   <img src="https://raw.githubusercontent.com/vinhngo1907/vinhngo1907/main/dino.gif">
 </div>
 
-<!-- ## <p align="left">🔥Profile stats</p>
+<!--  ## <p align="left">🔥Profile stats</p> -->
 
 <!---
 vinhngo1907/vinhngo1907 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!-- https://github.com/vinhngo1907/github-readme-stats -->
-<br>
+<!-- <br>
 <div align=center>
   <a href="https://app.daily.dev/vinhngo9907"><img src="https://api.daily.dev/devcards/830d9ce27c764560a7c7b3a51c3db94e.png?r=c4o" width="300" alt="Ngo Trung Vinh's Dev Card"/></a>
   <div style="display: flex; flex-direction: column;">
@@ -28,5 +28,5 @@ You can click the Preview link to take a look at your changes.
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=vinhngo1907&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
   </div>
-</div>
- -->
+</div> -->
+ 
