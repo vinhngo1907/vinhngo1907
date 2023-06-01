@@ -9,7 +9,7 @@
   <img src="https://raw.githubusercontent.com/vinhngo1907/vinhngo1907/main/dino.gif">
 </div>
 
-## <p align="left">🔥Profile stats</p>
+<!-- ## <p align="left">🔥Profile stats</p>
 
 <!---
 vinhngo1907/vinhngo1907 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,3 +29,4 @@ You can click the Preview link to take a look at your changes.
   </a>
   </div>
 </div>
+ -->
