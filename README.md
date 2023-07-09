@@ -29,12 +29,13 @@ You can click the Preview link to take a look at your changes.
   </a>
   </div>
 </div> -->
-
+<--
 ## <p align="left">🐍 Just a snake eating my contributions</p>
 <a href="#"><img src="https://github.com/MLX15/MLX15/blob/master/a.gif"></a>
 <p align='center'>
 <img src="https://github.com/MLX15/MLX15/blob/master/github-contribution-grid-snake.svg">
 </p>
 <br>
+-->
 
  
