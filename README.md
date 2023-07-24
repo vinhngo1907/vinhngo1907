@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!-- https://github.com/vinhngo1907/github-readme-stats -->
-<br>
+<!-- <br>
 <div align=center>
   
   <div style="display: flex; flex-direction: column;">
@@ -30,4 +30,4 @@ You can click the Preview link to take a look at your changes.
       <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=vinhngo1907&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
-</div>
+</div> -->
