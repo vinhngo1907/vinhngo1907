@@ -8,7 +8,9 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/vinhngo1907/vinhngo1907/main/dino.gif">
 </div>
- ## <p align="left">Checkout my DevCard 👇</p>
+
+## <p align="left">Checkout my DevCard 👇</p>
+
 <a href="https://app.daily.dev/vinhngo9907"><img src="https://api.daily.dev/devcards/830d9ce27c764560a7c7b3a51c3db94e.png?r=c4o" width="300" alt="Ngo Trung Vinh's Dev Card"/>
   </a>
 <!--  ## <p align="left">🔥Profile stats</p> -->
